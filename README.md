@@ -3,7 +3,7 @@
   
 - 😄 My name is Gustavo Macedo
 - ⚡ I´m 18 years old
-- 🌱 I'm currently studying web development on Rocketseat/CursoemVideo.
+- 🌱 I'm currently studying web development on Udemy/CursoemVideo.
 
 ## 🔨 Tools and Technologies
 
