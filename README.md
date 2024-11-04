@@ -8,6 +8,9 @@
 ## 🔨 Tools and Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
+<img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" /> <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
+<img src="https://icongr.am/devicon/intellij-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
+
 
 <div>
 <a href="https://github.com/Gustavo3522">
