@@ -3,7 +3,7 @@
   
 - 😄 My name is Gustavo Macedo
 - ⚡ I´m 20 years old
-- 🌱 I'm currently studying web development on Universidade Católica de Brasília/Udemy.
+- 🌱 "I am currently pursuing a degree in Computer Science at Universidade Católica de Brasília and studying Web Development through courses on Udemy..
 
 ## 🔨 Tools and Technologies
 
