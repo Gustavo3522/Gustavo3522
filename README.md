@@ -6,20 +6,17 @@ Estudante de Ciência da Computação na Universidade Católica de Brasília, co
 
 ---
 
-### 📊 GitHub Stats
+### 🗓 Minha jornada
 
+| Período | Tecnologias |
+|---|---|
+| 2022 — Início | ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white) |
+| 2024 — Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| 2026 → hoje | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo3522&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Gustavo3522)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo3522&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gustavo3522)
-
-
-
+<!--| 2026 → hoje | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![APIs REST](https://img.shields.io/badge/APIs_REST-FF6C37?style=flat-square&logo=postman&logoColor=white) |-->
 
 ---
-
 ### 🛠 Stack back-end
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
