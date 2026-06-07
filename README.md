@@ -1,27 +1,38 @@
-## 👋 Hello! Welcome to my Github profile.
-  
-  
-- 😄 My name is Gustavo Macedo
-- ⚡ I´m 20 years old
-- 🌱 "I am currently pursuing a degree in Computer Science at Universidade Católica de Brasília and studying Web Development through courses on Udemy..
+## 👋 Gustavo Macedo · Desenvolvedor Back-end
 
-## 🔨 Tools and Technologies
+Estudante de Ciência da Computação na Universidade Católica de Brasília, construindo APIs e sistemas back-end com Java e Spring Boot.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
-<img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" /> <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
-<img src="https://icongr.am/devicon/intellij-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
+![Brasília](https://img.shields.io/badge/Brasília,_DF-0078D4?style=flat) ![Status](https://img.shields.io/badge/Aberto_a_oportunidades-2ea44f?style=flat)
 
+---
 
-<div >
-<a href="https://github.com/Gustavo3522">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo3522&layout=compact&langs_count=7&theme=rose_pine"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo3522&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>   -->
-</div>
-  
-## 
+### 📊 GitHub Stats
 
-<div>
-  <a href="https://instagram.com/_macedo.04" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-<a href="https://www.linkedin.com/in/gustavo-macedo-vieira-0aba3026a/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo3522&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo3522&layout=compact&theme=dark&hide_border=true)
 
+---
+
+### 🛠 Stack back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📚 Estou aprendendo
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 📬 Fale comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/gustavo-macedo-vieira-0aba3026a/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/SEU-USUARIO](https://www.instagram.com/gmacedo16/?next=%2F))
